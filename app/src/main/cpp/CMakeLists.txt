@@ -14,6 +14,9 @@ project("fclient")
 # You can define multiple libraries, and CMake builds them for you.
 # Gradle automatically packages shared libraries with your APK.
 
+
+
+
 add_library( # Sets the name of the library.
         fclient
 
